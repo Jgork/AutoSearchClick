@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/images/png-klev-club-dk19-p-knopka-golubaya-png-15.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>resources/images/115-1154871_power-on-energy-start-button-multimedia-power-icon-start-png.png</file>
+    </qresource>
+</RCC>
