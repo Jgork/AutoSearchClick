@@ -16,3 +16,40 @@
 ## Поддержать проект (Donation)
 Если вам нравится программа, вы можете поддержать автора рублем (исключительно по желанию):
 * [Boosty](https://boosty.to/jgork/donate)
+```
+
+
+
+
+
+
+---
+
+<details>
+<summary><b>Ключевые слова и поисковые запросы / Keywords</b></summary>
+
+### Примитивные и частые (Русский):
+* автокликер, кликер, скачать автокликер, прога для кликов, тыкалка, автотыкалка, автонажатие
+* программа сама нажимает кнопки, автомышка, автоматический клик мышью, кликатель
+* бот для кликов, программа чтобы сама нажимала, как заставить мышку кликать
+* быстрый кликер, кликер на мышку, кликер для игр, скачать кликер бесплатно на пк
+* макрос на мышь, эмулятор мыши, автокликер без вирусов, кликер левой кнопкой, кликер лкм
+* автокликер без установки, простой кликер, кликер для роблокса, кликер для майнкрафта
+* программа для закликивания, скрипт на клики, автоклик
+
+### С умным поиском (Русский):
+* кликер по картинке, автокликер ищет пиксель, кликер по цвету, находит и кликает
+* автокликер с распознаванием экрана, умная тыкалка, бот ищет картинку и нажимает
+* кликает туда где появилась картинка, поиск элементов на экране кликер, автокликер opencv
+* бот для фарма, умный бот кликер, обход античита кликер, кликер с компьютерным зрением
+* автокликер с поиском по экрану, найти объект и кликнуть, автонаведение мыши
+
+### English (Basic & Smart):
+* auto clicker, clicker, mouse clicker, auto mouse, program to click automatically
+* auto clicker download free, best auto clicker, fast clicker, macro clicker, bot clicker
+* auto click, simple clicker, easy auto clicker, autoclicker pc, auto left click
+* image search auto clicker, find pixel and click, smart autoclicker, pixel clicker bot
+* color detection clicker, find image on screen click, opencv auto clicker, auto target clicker
+* undetected auto clicker pc, qt c++ clicker, screen recognition clicker, auto aim clicker
+
+</details>
